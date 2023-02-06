@@ -14,5 +14,10 @@ Creat a Node.js command-line application that takes in information about employe
 
 <img src="genscreenshot.jpg" width="500px"/> 
 
+## Links
+Video Link:
+https://drive.google.com/file/d/11NztmVe1EyoVV1_BbqrmE516siWOs0Ml/view
 
+GitHub Link:
+https://github.com/LondaNH/Team-Londa-Profile-Gen
 
